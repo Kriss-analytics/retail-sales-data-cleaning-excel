@@ -71,13 +71,13 @@ The following cleaning and validation activities were performed:
 
 The raw dataset contained inconsistencies such as missing values, duplicate records, mixed formats, invalid numerical values, and inconsistent phone number formats.
 
-![Raw Data](Images/Raw_Data)
+![Raw Data](Raw_Data.jpg)
 
 ### Cleaned Dataset
 
 After applying the cleaning and validation procedures, the dataset was standardized and prepared for analysis.
 
-![Cleaned Data](Images/Cleaned_Data)
+![Cleaned Data](Cleaned_Data.jpg)
 
 ---
 
@@ -85,7 +85,7 @@ After applying the cleaning and validation procedures, the dataset was standardi
 
 The detailed data cleaning process is available in the project report:
 
-[View Data Cleaning Report](Documentation/Data_Cleaning_Report)
+[View Data Cleaning Report](Data_Cleaning_Report.pdf)
 
 ---
 
